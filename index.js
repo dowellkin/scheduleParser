@@ -1,11 +1,21 @@
 const parser = require('./modules/parser.js');
 const cnv = require('./modules/nameConverter.js');
 const generator = require('./modules/scheduleGenerator.js');
+const firebaseMoves = require('./modules/scheduleWithFirebase.js');
 
 const pathFile = './parsed';
 
 const fs = require('fs');
 require('dotenv').config();
+
+
+const fullSchedule = process.argv.includes('--full') || process.argv.includes('-fs');
+if(fullSchedule){
+	require('./modules/generateFull.js')()
+	console.log('generated successfully');
+	process.exit(0);
+}
+
 const forceUpdate = process.argv.includes('--force') || process.argv.includes('-f');
 
 let files = {};
@@ -22,6 +32,12 @@ if (!fs.existsSync(pathFile) || forceUpdate) {
 }
 
 for(groupname in files){
+	generateSchedule(groupname);
+}
+
+// generateSchedule('ИТ041');
+
+function generateSchedule(groupname){
 	// console.log(groupname, files[groupname])
 	// let rawData = fs.readFileSync(pathFile + '/' + files[groupname][0]);
 	// let data = JSON.parse(rawData);
@@ -32,17 +48,30 @@ for(groupname in files){
 	rawData.push(fs.readFileSync(pathFile + '/' + files[groupname][1]));
 	let data = rawData.map( element => JSON.parse(element) );
 
-	let dayLessons = [];
+	let dayLessons = {};
 	for(let day in data[0]){
 		const days = [];
 		for(let el in data){
-			let tempDay = new generator.Day(data[el][day])
+			let tempDay = new generator.Day(data[el][day], {subgroup: +el+1})
 			tempDay.makeMoves();
 			days.push(tempDay);
 		}
-		dayLessons.push(new generator.Day().leftUnique(days));
+		const unique = new generator.Day().leftUniqueAlt(days);
+
+		// console.log('\n\n\nsingle', unique);
+
+		// dayLessons.push(unique);
+		dayLessons[Object.keys(dayLessons).length] = (unique);
 	}
 
 	// console.log(dayLessons);
-	fs.writeFileSync(`./result/${cnv.ruToEn(groupname)}.json`, JSON.stringify(dayLessons, null, 2));
+	const group = cnv.ruToEn(groupname)
+	fs.writeFileSync(`./result/${group}.json`, JSON.stringify(dayLessons, null, 2));
+	firebaseMoves.main({path: `./result/${group}.json`})
+	.finally(result => {
+		
+		console.log('\n\nthat\'s all.');
+		process.exit();
+	})
+	
 }

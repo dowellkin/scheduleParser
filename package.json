@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "crypto": "^1.0.1",
     "dotenv": "^10.0.0",
+    "firebase": "^8.10.0",
     "xlsx": "^0.17.1"
   }
 }

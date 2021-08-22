@@ -1,0 +1,4067 @@
+{
+  "it041": {
+    "0": [
+      {
+        "fullname": "2 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "Цифровая обработка речи и изображений( ЛК), Киркоров С.И.",
+        "name": "Цифровая обработка речи и изображений",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Киркоров С.И.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": 18
+      },
+      {
+        "fullname": "1 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "1 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "1": [
+      {
+        "fullname": "Функциональные устройства инфокоммуникационных систем(ЛК),доцент,Свирид В.Л",
+        "name": "Функциональные устройства инфокоммуникационных систем",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Свирид В.Л",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "Основы бизнеса и права в инфокоммуникациях(ЛК), Кравченко Ю.Р",
+        "name": "Основы бизнеса и права в инфокоммуникациях",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кравченко Ю.Р",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 20
+      },
+      {
+        "fullname": "Основы построения инфокомуникационных систем и сетей(ЛК), Дуйнова Ю.А",
+        "name": "Основы построения инфокомуникационных систем и сетей",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Дуйнова Ю.А",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "1,3 Основы построения инфокомуникационных систем и сетей(ПЗ), Дуйнова Ю.А",
+        "name": "Основы построения инфокомуникационных систем и сетей",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Дуйнова Ю.А",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      }
+    ],
+    "2": [
+      {
+        "fullname": "Теория кодирования (ЛК), доцент, Лагутин А.Е",
+        "name": "Теория кодирования",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Лагутин А.Е",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": 22
+      },
+      {
+        "fullname": "Физическая культура, Кротов В.В. / Пасичниченко В.А.",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кротов В.В. / Пасичниченко В.А.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": 5
+      },
+      {
+        "fullname": "1 ЦОРИ(ЛР)",
+        "name": "ЦОРИ",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ЦОРИ(ЛР)",
+        "name": "ЦОРИ",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "2 ЦОРИ(ЛР)",
+        "name": "ЦОРИ",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "1 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "2 ЦОРИ(ЛР)",
+        "name": "ЦОРИ",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "3": [
+      {
+        "fullname": "2 ОПСиС(ЛР)",
+        "name": "ОПСиС",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "3 Объектно-ориентированное программирование(ЛК),Труханович Т.Л.",
+        "name": "Объектно-ориентированное программирование",
+        "type": "ЛК",
+        "weeks": [
+          3
+        ],
+        "teacher": "Труханович Т.Л.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": 29
+      },
+      {
+        "fullname": "4 ФУИКс(ЛР)",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ОБиПвИк(ПЗ),Политевич О.В.",
+        "name": "ОБиПвИк",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "2 ОПСиС(ЛР)",
+        "name": "ОПСиС",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "4 ФУИКс(ЛР)",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "Основы бизнеса и права в инфокоммуникациях(ПЗ), Политевич О.В.",
+        "name": "Основы бизнеса и права в инфокоммуникациях",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "2 ФУИКс(ЛР)",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 ОПСиС(ЛР)",
+        "name": "ОПСиС",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "2 ФУИКс(ЛР)",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 ОПСиС(ЛР)",
+        "name": "ОПСиС",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "4": [
+      {
+        "fullname": "Английский язык (Профессиональная лексика) (Ф),Игнатьева Е.М",
+        "name": "Английский язык (Профессиональная лексика)",
+        "type": "Ф",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Игнатьева Е.М",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 21,
+        "teacherId": 26
+      },
+      {
+        "fullname": "Физическая культура, Кротов В.В. / Пасичниченко В.А.",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кротов В.В. / Пасичниченко В.А.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": 5
+      },
+      {
+        "fullname": "1,3 Философия(ЛК),профессор,доцент,к.фил.н., Зайцев Д.М",
+        "name": "Философия",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Зайцев Д.М",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "2,4 Основы психологии и педагогики(ЛК), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "1,3 Философия(ПЗ),Зайцев Д.М.",
+        "name": "Философия",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Зайцев Д.М.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "2,4 Основы психологии и педагогики(ПЗ), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      }
+    ],
+    "5": [
+      {
+        "fullname": "1 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 Теория кодирования(ПЗ),Лагутин А.Е.",
+        "name": "Теория кодирования",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Лагутин А.Е.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": 22
+      },
+      {
+        "fullname": "2 Системы управления базами данных(ЛК),доцент,к.т.н.,Карпук А.А.",
+        "name": "Системы управления базами данных",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Карпук А.А.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 24,
+        "teacherId": 30
+      },
+      {
+        "fullname": "3 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "3 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1,
+        "group": 2
+      }
+    ]
+  },
+  "ms091": {
+    "0": [
+      {
+        "fullname": "1 КИТ(ЛР)",
+        "name": "КИТ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "3 КИТ(ЛР)",
+        "name": "КИТ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 КИТ(ЛР)",
+        "name": "КИТ",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "Компьютерные информационные технологии(ЛК),Лавшук О.А.",
+        "name": "Компьютерные информационные технологии",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Лавшук О.А.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 42
+      },
+      {
+        "fullname": "Маркетинг(ЛК),к.э.н.,доцент,Залесская Л.Е.",
+        "name": "Маркетинг",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Залесская Л.Е.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 43
+      },
+      {
+        "fullname": "2 КИТ(ЛР)",
+        "name": "КИТ",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 КИТ(ЛР)",
+        "name": "КИТ",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "2 КИТ(ЛР)",
+        "name": "КИТ",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "1": [
+      {
+        "fullname": "Экономика организации(ЛК), к.э.н.,доцент,Романова Е.С.",
+        "name": "Экономика организации",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Романова Е.С.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 44
+      },
+      {
+        "fullname": "Экономика организации(ПЗ), к.э.н.,доцент,Романова Е.С.",
+        "name": "Экономика организации",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Романова Е.С.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 44
+      },
+      {
+        "fullname": " Статистика(ЛК),Михинова Л.М.",
+        "name": "Статистика",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Михинова Л.М.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 1
+      }
+    ],
+    "2": [
+      {
+        "fullname": "Физическая культура, Кротов В.В. / Пасичниченко В.А.",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кротов В.В. / Пасичниченко В.А.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": 5
+      },
+      {
+        "fullname": " Вышая математика(ЛК), профессор,д-р пед.наук, Булдык Г.М.",
+        "name": "Вышая математика",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Булдык Г.М.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 45
+      },
+      {
+        "fullname": " Вышая математика(ПЗ), профессор,д-р пед.наук, Булдык Г.М.",
+        "name": "Вышая математика",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Булдык Г.М.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 45
+      }
+    ],
+    "3": [
+      {
+        "fullname": "Макроэкономика(ЛК), доцент, к.э.н., Залесская Л.Е.",
+        "name": "Макроэкономика",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Залесская Л.Е.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 43
+      },
+      {
+        "fullname": "Прогнозирование планирование экономики(ЛК),доцент, к.э.н., Залесская Л.Е.",
+        "name": "Прогнозирование планирование экономики",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Залесская Л.Е.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 43
+      },
+      {
+        "fullname": "Макроэкономика(ПЗ), доцент, к.э.н., Залесская Л.Е.",
+        "name": "Макроэкономика",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Залесская Л.Е.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 43
+      },
+      {
+        "fullname": "Прогнозирование планирование экономики(ПЗ),доцент, к.э.н., Залесская Л.Е.",
+        "name": "Прогнозирование планирование экономики",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Залесская Л.Е.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 43
+      }
+    ],
+    "4": [
+      {
+        "fullname": "Физическая культура, Кротов В.В. / Пасичниченко В.А.",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кротов В.В. / Пасичниченко В.А.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": 5
+      },
+      {
+        "fullname": "1,3 Основы менеджмента(ЛК),Подорецкая Л.В.",
+        "name": "Основы менеджмента",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Подорецкая Л.В.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 46
+      },
+      {
+        "fullname": "2,4 Иностранный язык (Профессиональная лексика) (Ф),Ращинская И.Н.",
+        "name": "Иностранный язык (Профессиональная лексика)",
+        "type": "Ф",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Ращинская И.Н.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 40
+      },
+      {
+        "fullname": "1,3 Основы менеджмента(ПЗ),Подорецкая Л.В.",
+        "name": "Основы менеджмента",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3,
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Подорецкая Л.В.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 46
+      }
+    ],
+    "5": [
+      {
+        "fullname": "2 Маркетинг(ЛР)",
+        "name": "Маркетинг",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 Маркетинг(ЛР)",
+        "name": "Маркетинг",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "Маркетинг(ПЗ),Рабцевич С.С.",
+        "name": "Маркетинг",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Рабцевич С.С.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 47
+      },
+      {
+        "fullname": "Статистика(ПЗ),Рабцевич С.С.",
+        "name": "Статистика",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Рабцевич С.С.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 47
+      },
+      {
+        "fullname": "4 Маркетинг(ЛР)",
+        "name": "Маркетинг",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 Маркетинг(ЛР)",
+        "name": "Маркетинг",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      }
+    ]
+  },
+  "ps041": {
+    "0": [
+      {
+        "fullname": "2,4 Математическое программирование(ЛК),Колодная Е.М.",
+        "name": "Математическое программирование",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Колодная Е.М.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 14
+      },
+      {
+        "fullname": "1,3 Теория электрических цепей(ЛК), Киевец Н.Г.",
+        "name": "Теория электрических цепей",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Киевец Н.Г.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 37
+      },
+      {
+        "fullname": "2,4 Математическое программирование(ПЗ),Колодная Е.М.",
+        "name": "Математическое программирование",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Колодная Е.М.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 14
+      },
+      {
+        "fullname": "1,3 Теория электрических цепей(ПЗ), Киевец Н.Г.",
+        "name": "Теория электрических цепей",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3,
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Киевец Н.Г.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 37
+      },
+      {
+        "fullname": "Начертательная геометрия и инженерная графика(ЛК),Кот М.А.",
+        "name": "Начертательная геометрия и инженерная графика",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кот М.А.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 38
+      }
+    ],
+    "1": [
+      {
+        "fullname": "1,3 Основы психологии и педагогики(ПЗ),Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "1,3 Коммерческая деятельность и маркетинг в ПС (ЛК),д.э.н., профессор, Кобринский Г.Е.",
+        "name": "Коммерческая деятельность и маркетинг в ПС",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Кобринский Г.Е.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 39
+      },
+      {
+        "fullname": "2,4 Основы теории информации(ЛК), Попова М.С",
+        "name": "Основы теории информации",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Попова М.С",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 8,
+        "teacherId": 2
+      },
+      {
+        "fullname": "1 ОТИ(ЛР)",
+        "name": "ОТИ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 8,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ТВиМС(ЛК),профессор,д.-р.физ.-мат.наук, доцент, Гладков Л.Л",
+        "name": "ТВиМС",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Гладков Л.Л",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 12,
+        "teacherId": 15
+      },
+      {
+        "fullname": "3 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ОТИ(ЛР)",
+        "name": "ОТИ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 8,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ТВиМС(ПЗ),профессор,д.-р.физ.-мат.наук, доцент, Гладков Л.Л",
+        "name": "ТВиМС",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Гладков Л.Л",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 12,
+        "teacherId": 15
+      },
+      {
+        "fullname": "3 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "3 ОТИ(ЛР)",
+        "name": "ОТИ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 8,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "1 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "3 ОТИ(ЛР)",
+        "name": "ОТИ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 8,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "2": [
+      {
+        "fullname": "1 НГиИГ(ЛР)",
+        "name": "НГиИГ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "3 НГиИГ(ЛР)",
+        "name": "НГиИГ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 НГиИГ(ЛР)",
+        "name": "НГиИГ",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "Физическая культура, Кротов В.В. / Пасичниченко В.А.",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кротов В.В. / Пасичниченко В.А.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": 5
+      },
+      {
+        "fullname": "Коммерческая деятельность и маркетинг в ПС (ПЗ),д.э.н., профессор, Кобринский Г.Е.",
+        "name": "Коммерческая деятельность и маркетинг в ПС",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кобринский Г.Е.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 39
+      },
+      {
+        "fullname": "2 НГиИГ(ЛР)",
+        "name": "НГиИГ",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 НиИГ(ЛР)",
+        "name": "НиИГ",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "2 НГиИГ(ЛР)",
+        "name": "НГиИГ",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 НиИГ(ЛР)",
+        "name": "НиИГ",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "3": [
+      {
+        "fullname": "Коммерческая деятельность и маркетинг в ПС (ЛК),д.э.н., профессор, Кобринский Г.Е.",
+        "name": "Коммерческая деятельность и маркетинг в ПС",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кобринский Г.Е.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 39
+      },
+      {
+        "fullname": "1,3 Основы психологии и педагогики(ПЗ), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "2,4 Философия(ПЗ),Зайцев Д.М.",
+        "name": "Философия",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Зайцев Д.М.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "Философия(ЛК),профессор,доцент,к.фил.н., Зайцев Д.М",
+        "name": "Философия",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Зайцев Д.М",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "1,3 ТВиМС(ЛК),профессор,д.-р.физ.-мат.наук, доцент, Гладков Л.Л",
+        "name": "ТВиМС",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3,
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Гладков Л.Л",
+        "lessonNumber": 4,
+        "room": "",
+        "lessonId": 12,
+        "teacherId": 15
+      }
+    ],
+    "4": [
+      {
+        "fullname": "Английский язык (Профессиональная лексика) (Ф), Ращинская И.Н.",
+        "name": "Английский язык (Профессиональная лексика)",
+        "type": "Ф",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Ращинская И.Н.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 21,
+        "teacherId": 40
+      },
+      {
+        "fullname": "1,3 История экономических учений (ЛК), доцент,к.э.н., Домакур О.В.",
+        "name": "История экономических учений",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3,
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Домакур О.В.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 41
+      },
+      {
+        "fullname": "Физическая культура, Кротов В.В. / Пасичниченко В.А.",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кротов В.В. / Пасичниченко В.А.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": 5
+      },
+      {
+        "fullname": "Коммерческая деятельность и маркетинг в ПС (ЛК),д.э.н., профессор, Кобринский Г.Е.",
+        "name": "Коммерческая деятельность и маркетинг в ПС",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кобринский Г.Е.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 39
+      }
+    ],
+    "5": []
+  },
+  "so041": {
+    "0": [
+      {
+        "fullname": "2,4 ФУИКс(ПЗ),Свирид В.Л",
+        "name": "ФУИКс",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Свирид В.Л",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "Основы алгоритмизации и программирования(ЛК),Бущик Е.А.",
+        "name": "Основы алгоритмизации и программирования",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Бущик Е.А.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 7,
+        "teacherId": 35
+      },
+      {
+        "fullname": "1 ОАиП(ЛР)",
+        "name": "ОАиП",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 7,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ОАиП(ЛР)",
+        "name": "ОАиП",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 7,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ОАиП(ЛР)",
+        "name": "ОАиП",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 7,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "2 ОАиП(ЛР)",
+        "name": "ОАиП",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 7,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "1": [
+      {
+        "fullname": "Функциональные устройства инфокоммуникационных систем(ЛК),доцент,Свирид В.Л",
+        "name": "Функциональные устройства инфокоммуникационных систем",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Свирид В.Л",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "Основы бизнеса и права в инфокоммуникациях(ЛК), Кравченко Ю.Р",
+        "name": "Основы бизнеса и права в инфокоммуникациях",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кравченко Ю.Р",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 20
+      },
+      {
+        "fullname": "1,3 Безопасность жизнедеятельности человека(ЛК),доцент,Савченко С.В.",
+        "name": "Безопасность жизнедеятельности человека",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3,
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Савченко С.В.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 36
+      },
+      {
+        "fullname": "Надежность инфокоммуникационных систем(ЛК), доцент,к.т.н.,Нефедов С.Н.",
+        "name": "Надежность инфокоммуникационных систем",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Нефедов С.Н.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 31
+      }
+    ],
+    "2": [
+      {
+        "fullname": "Физическая культура,\nМалашевич И.В / Шаг И.М",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": -1
+      },
+      {
+        "fullname": "Теория кодирования (ЛК), доцент, Лагутин А.Е",
+        "name": "Теория кодирования",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Лагутин А.Е",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": 22
+      },
+      {
+        "fullname": "1,3 Основы психологии и педагогики(ПЗ),Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "2,4 Философия(ПЗ),Зайцев Д.М.",
+        "name": "Философия",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Зайцев Д.М.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "1,3 Английский язык(Профессиональная лексика) (Ф),Мышелова Н.И.",
+        "name": "Английский язык(Профессиональная лексика)",
+        "type": "Ф",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Мышелова Н.И.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 3
+      },
+      {
+        "fullname": "2 Теория кодирования(ПЗ),Лагутин А.Е.",
+        "name": "Теория кодирования",
+        "type": "ПЗ",
+        "weeks": [
+          2
+        ],
+        "teacher": "Лагутин А.Е.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": 22
+      }
+    ],
+    "3": [
+      {
+        "fullname": "2 ОБиПвИк(ПЗ),Политевич О.В.",
+        "name": "ОБиПвИк",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "Теория электрических цепей(ЛК), Киевец Н.Г.",
+        "name": "Теория электрических цепей",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Киевец Н.Г.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 37
+      },
+      {
+        "fullname": "1,3 Теория электрических цепей(ПЗ), Киевец Н.Г.",
+        "name": "Теория электрических цепей",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Киевец Н.Г.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 37
+      },
+      {
+        "fullname": "2,4 НИС(ПЗ),Нефедов С.Н.",
+        "name": "НИС",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Нефедов С.Н.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 31
+      },
+      {
+        "fullname": "2,4 Английский язык (Профессиональная лексика) (Ф), Мышелова Н.И.",
+        "name": "Английский язык (Профессиональная лексика)",
+        "type": "Ф",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Мышелова Н.И.",
+        "lessonNumber": 4,
+        "room": "",
+        "lessonId": 21,
+        "teacherId": 3
+      }
+    ],
+    "4": [
+      {
+        "fullname": "Физическая культура,\nМалашевич И.В / Шаг И.М",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1,3 Философия(ЛК),профессор,доцент,к.фил.н., Зайцев Д.М",
+        "name": "Философия",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Зайцев Д.М",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "2,4 Основы психологии и педагогики(ЛК), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "1 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "3 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "3 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "5": [
+      {
+        "fullname": "Основы бизнеса и права в инфокоммуникациях(ПЗ), Политевич О.В.",
+        "name": "Основы бизнеса и права в инфокоммуникациях",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "2 НИС(ЛР)",
+        "name": "НИС",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "3 ФУИКс(ЛР)",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 НИС(ЛР)",
+        "name": "НИС",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "3 ФУИКс(ЛР)",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ФУИКс(ЛР)",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 НИС(ЛР)",
+        "name": "НИС",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "1 ФУИКс(ЛР)",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 НИС(ЛР)",
+        "name": "НИС",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      }
+    ]
+  },
+  "sp041": {
+    "0": [
+      {
+        "fullname": "1 ОПСиС(ЛР),Дуйнова Ю.А.",
+        "name": "ОПСиС",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "Дуйнова Ю.А.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "2 ОБиПвИк(ПЗ),Политевич О.В.",
+        "name": "ОБиПвИк",
+        "type": "ПЗ",
+        "weeks": [
+          2
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "3 ФУИКс(ЛР),Свирид В.Л.",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "Свирид В.Л.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "4 ОБиПвИк(ПЗ),Политевич О.В.",
+        "name": "ОБиПвИк",
+        "type": "ПЗ",
+        "weeks": [
+          4
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "1 ОПСиС(ЛР),Дуйнова Ю.А.",
+        "name": "ОПСиС",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "Дуйнова Ю.А.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "2 ОПиСиС(ПЗ),Дуйнова Ю.А.",
+        "name": "ОПиСиС",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Дуйнова Ю.А.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "3 ФУИКс(ЛР),Свирид В.Л.",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "Свирид В.Л.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "Английский язык (Профессиональная лексика) (Ф),Игнатьева Е.М",
+        "name": "Английский язык (Профессиональная лексика)",
+        "type": "Ф",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Игнатьева Е.М",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 21,
+        "teacherId": 26
+      }
+    ],
+    "1": [
+      {
+        "fullname": "Функциональные устройства инфокоммуникационных систем(ЛК),доцент,Свирид В.Л",
+        "name": "Функциональные устройства инфокоммуникационных систем",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Свирид В.Л",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "Основы бизнеса и права в инфокоммуникациях(ЛК), Кравченко Ю.Р",
+        "name": "Основы бизнеса и права в инфокоммуникациях",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кравченко Ю.Р",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 20
+      },
+      {
+        "fullname": "Основы построения инфокомуникационных систем и сетей(ЛК), Дуйнова Ю.А",
+        "name": "Основы построения инфокомуникационных систем и сетей",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Дуйнова Ю.А",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "Надежность инфокоммуникационных систем(ЛК), доцент,к.т.н.,Нефедов С.Н.",
+        "name": "Надежность инфокоммуникационных систем",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Нефедов С.Н.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 31
+      }
+    ],
+    "2": [
+      {
+        "fullname": "1,3 ФУИКс(ПЗ), Свирид В.Л",
+        "name": "ФУИКс",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Свирид В.Л",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "Теория кодирования (ЛК), доцент, Лагутин А.Е",
+        "name": "Теория кодирования",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Лагутин А.Е",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": 22
+      },
+      {
+        "fullname": "Физическая культура,\nШаг И.М",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1 Теория кодирования(ПЗ),Лагутин А.Е.",
+        "name": "Теория кодирования",
+        "type": "ПЗ",
+        "weeks": [
+          1
+        ],
+        "teacher": "Лагутин А.Е.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": 22
+      },
+      {
+        "fullname": "2,4 Философия(ПЗ),Зайцев Д.М.",
+        "name": "Философия",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Зайцев Д.М.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      }
+    ],
+    "3": [
+      {
+        "fullname": "2 ОБиПвИк(ПЗ),Политевич О.В.",
+        "name": "ОБиПвИк",
+        "type": "ПЗ",
+        "weeks": [
+          2
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "3 Объектно-ориентированное программирование(ЛК),Труханович Т.Л.",
+        "name": "Объектно-ориентированное программирование",
+        "type": "ЛК",
+        "weeks": [
+          3
+        ],
+        "teacher": "Труханович Т.Л.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": 29
+      },
+      {
+        "fullname": "4 ОБиПвИк(ПЗ),Политевич О.В.",
+        "name": "ОБиПвИк",
+        "type": "ПЗ",
+        "weeks": [
+          4
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "1 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 НИС(ПЗ),Нефедов С.Н.",
+        "name": "НИС",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Нефедов С.Н.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 31
+      },
+      {
+        "fullname": "1 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 ЦОРИ(ЛР)",
+        "name": "ЦОРИ",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1 ОБиПвИк(ПЗ),Политевич О.В.",
+        "name": "ОБиПвИк",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "2 ЦОРИ(ЛР)",
+        "name": "ЦОРИ",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": -1
+      }
+    ],
+    "4": [
+      {
+        "fullname": "2,4 Основы психологии и педагогики(ПЗ), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "1,3 Философия(ЛК),профессор,доцент,к.фил.н., Зайцев Д.М",
+        "name": "Философия",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Зайцев Д.М",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "2,4 Основы психологии и педагогики(ЛК), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "Физическая культура,\nШаг И.М",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": -1
+      },
+      {
+        "fullname": "Цифровая обработка речи и изображений( ЛК), Киркоров С.И.",
+        "name": "Цифровая обработка речи и изображений",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Киркоров С.И.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": 18
+      },
+      {
+        "fullname": "1,3 Цифровая обработка речи и изображений(ПЗ),Киркоров С.И.",
+        "name": "Цифровая обработка речи и изображений",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Киркоров С.И.",
+        "lessonNumber": 4,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": 18
+      }
+    ],
+    "5": [
+      {
+        "fullname": "2 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1
+      },
+      {
+        "fullname": "3 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1
+      },
+      {
+        "fullname": "4 НИС(ЛР)",
+        "name": "НИС",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1
+      },
+      {
+        "fullname": "4 НИС(ЛР)",
+        "name": "НИС",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 Системы управления базами данных(ЛК),доцент,к.т.н.,Карпук А.А.",
+        "name": "Системы управления базами данных",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Карпук А.А.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 24,
+        "teacherId": 30
+      },
+      {
+        "fullname": "1 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1
+      }
+    ]
+  },
+  "sp091": {
+    "0": [
+      {
+        "fullname": "1 ММ(ЛР)",
+        "name": "ММ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "3 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 ММ(ЛР)",
+        "name": "ММ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "2 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "Математическое моделирование(ЛК),Колодная Е.М.",
+        "name": "Математическое моделирование",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Колодная Е.М.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 11,
+        "teacherId": 14
+      },
+      {
+        "fullname": "Современнные языки программирования(Ф),Труханович Т.Л.",
+        "name": "Современнные языки программирования",
+        "type": "Ф",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Труханович Т.Л.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 29
+      },
+      {
+        "fullname": "1 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "3 ММ(ЛР)",
+        "name": "ММ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "1 ТЭЦ(ЛР)",
+        "name": "ТЭЦ",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "3 ММ(ЛР)",
+        "name": "ММ",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "1": [
+      {
+        "fullname": "1,3 Математика (ПЗ), доцент,к.ф.-м.н.,Заяц Г.М.",
+        "name": "Математика",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Заяц Г.М.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 5,
+        "teacherId": 32
+      },
+      {
+        "fullname": "2,4 Математика (ЛК), доцент,к.ф.-м.н.,Заяц Г.М.",
+        "name": "Математика",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Заяц Г.М.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 5,
+        "teacherId": 32
+      },
+      {
+        "fullname": "Математика (ПЗ), доцент,к.ф.-м.н.,Заяц Г.М.",
+        "name": "Математика",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Заяц Г.М.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 5,
+        "teacherId": 32
+      },
+      {
+        "fullname": "Теория электрических цепей(ЛК),Русакович Е.В.",
+        "name": "Теория электрических цепей",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Русакович Е.В.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 33
+      },
+      {
+        "fullname": "Теория электрических цепей(ПЗ),Русакович Е.В.",
+        "name": "Теория электрических цепей",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Русакович Е.В.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 33
+      }
+    ],
+    "2": [
+      {
+        "fullname": "Теория электрических цепей(ЛК),Русакович Е.В.",
+        "name": "Теория электрических цепей",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Русакович Е.В.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 33
+      },
+      {
+        "fullname": "Физическая культура,\nМалашевич И.В / Шаг И.М",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": -1
+      },
+      {
+        "fullname": "Теория электрической связи (ЛК), Кочергина О.В",
+        "name": "Теория электрической связи",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кочергина О.В",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 13,
+        "teacherId": 34
+      },
+      {
+        "fullname": "Теория электрической связи (ПЗ), Кочергина О.В",
+        "name": "Теория электрической связи",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кочергина О.В",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 13,
+        "teacherId": 34
+      }
+    ],
+    "3": [
+      {
+        "fullname": "Философия(ЛК),профессор,доцент,к.фил.н., Зайцев Д.М",
+        "name": "Философия",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Зайцев Д.М",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "1,3 Философия(ПЗ),Зайцев Д.М.",
+        "name": "Философия",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Зайцев Д.М.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "2,4 Основы психологии и педагогики(ПЗ), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "1,3 Основы психологии и педагогики(ЛК), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "2,4 Дискретная математика(ПЗ),доцент,к.т.н., Терешко Д.М.",
+        "name": "Дискретная математика",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Терешко Д.М.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 0,
+        "teacherId": 16
+      },
+      {
+        "fullname": "Дискретная математика(ЛК),доцент,к.т.н., Терешко Д.М.",
+        "name": "Дискретная математика",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Терешко Д.М.",
+        "lessonNumber": 4,
+        "room": "",
+        "lessonId": 0,
+        "teacherId": 16
+      }
+    ],
+    "4": [
+      {
+        "fullname": "Физическая культура,\nМалашевич И.В / Шаг И.М",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1 Математика (ЛК), доцент,к.ф.-м.н.,Заяц Г.М.",
+        "name": "Математика",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "Заяц Г.М.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 5,
+        "teacherId": 32
+      },
+      {
+        "fullname": "2 ТЭС(ЛР)",
+        "name": "ТЭС",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 13,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": " 1 Математика (ПЗ), доцент,к.ф.-м.н.,Заяц Г.М.",
+        "name": "1 Математика",
+        "type": "ПЗ",
+        "weeks": [
+          1
+        ],
+        "teacher": "Заяц Г.М.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 32
+      },
+      {
+        "fullname": "2 ТЭС(ЛР)",
+        "name": "ТЭС",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 13,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "3 Математика (ПЗ), доцент,к.ф.-м.н.,Заяц Г.М.",
+        "name": "Математика",
+        "type": "ПЗ",
+        "weeks": [
+          3
+        ],
+        "teacher": "Заяц Г.М.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 5,
+        "teacherId": 32
+      },
+      {
+        "fullname": "4 ТЭС(ЛР)",
+        "name": "ТЭС",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 13,
+        "teacherId": -1,
+        "group": 2
+      },
+      {
+        "fullname": "4 ТЭС(ЛР)",
+        "name": "ТЭС",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 13,
+        "teacherId": -1,
+        "group": 2
+      }
+    ],
+    "5": [
+      {
+        "fullname": "2 Физика(ЛР)",
+        "name": "Физика",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 4,
+        "teacherId": -1,
+        "group": 1
+      },
+      {
+        "fullname": "1 Физика(ЛК),доцент,к.ф.-м.н.,Чернявский В.А.",
+        "name": "Физика",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3
+        ],
+        "teacher": "Чернявский В.А.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 4,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1,3 Физика(ПЗ),доцент,к.ф.-м.н.,Чернявский В.А.",
+        "name": "Физика",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3,
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Чернявский В.А.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 4,
+        "teacherId": -1
+      },
+      {
+        "fullname": "4 Физика(ЛР)",
+        "name": "Физика",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 4,
+        "teacherId": -1,
+        "group": 2
+      }
+    ]
+  },
+  "st041": {
+    "0": [
+      {
+        "fullname": "1 ФУИКс(ЛР),Свирид В.Л.",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "Свирид В.Л.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "2 ОПиСиС(ПЗ),Дуйнова Ю.А.",
+        "name": "ОПиСиС",
+        "type": "ПЗ",
+        "weeks": [
+          2
+        ],
+        "teacher": "Дуйнова Ю.А.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "3 ОПСиС(ЛР),Дуйнова Ю.А.",
+        "name": "ОПСиС",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "Дуйнова Ю.А.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "4 ОПиСиС(ПЗ),Дуйнова Ю.А.",
+        "name": "ОПиСиС",
+        "type": "ПЗ",
+        "weeks": [
+          4
+        ],
+        "teacher": "Дуйнова Ю.А.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "1 ФУИКс(ЛР),Свирид В.Л.",
+        "name": "ФУИКс",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "Свирид В.Л.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "2 ОБиПвИк(ПЗ),Политевич О.В.",
+        "name": "ОБиПвИк",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      },
+      {
+        "fullname": "3 ОПСиС(ЛР),Дуйнова Ю.А.",
+        "name": "ОПСиС",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "Дуйнова Ю.А.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "Основы бизнеса и права в инфокоммуникациях(ПЗ), Политевич О.В.",
+        "name": "Основы бизнеса и права в инфокоммуникациях",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Политевич О.В.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 10
+      }
+    ],
+    "1": [
+      {
+        "fullname": "Функциональные устройства инфокоммуникационных систем(ЛК),доцент,Свирид В.Л",
+        "name": "Функциональные устройства инфокоммуникационных систем",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Свирид В.Л",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "Основы бизнеса и права в инфокоммуникациях(ЛК), Кравченко Ю.Р",
+        "name": "Основы бизнеса и права в инфокоммуникациях",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Кравченко Ю.Р",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 17,
+        "teacherId": 20
+      },
+      {
+        "fullname": "Основы построения инфокомуникационных систем и сетей(ЛК), Дуйнова Ю.А",
+        "name": "Основы построения инфокомуникационных систем и сетей",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Дуйнова Ю.А",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 18,
+        "teacherId": 21
+      },
+      {
+        "fullname": "Надежность инфокоммуникационных систем(ЛК), доцент,к.т.н.,Нефедов С.Н.",
+        "name": "Надежность инфокоммуникационных систем",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Нефедов С.Н.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 31
+      }
+    ],
+    "2": [
+      {
+        "fullname": "2,4 ФУИКс(ПЗ),Свирид В.Л",
+        "name": "ФУИКс",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Свирид В.Л",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 16,
+        "teacherId": 19
+      },
+      {
+        "fullname": "Теория кодирования (ЛК), доцент, Лагутин А.Е",
+        "name": "Теория кодирования",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Лагутин А.Е",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": 22
+      },
+      {
+        "fullname": "Физическая культура,\nМалашевич И.В",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1,3 Основы психологии и педагогики(ПЗ), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "4 Теория кодирования(ПЗ),Лагутин А.Е.",
+        "name": "Теория кодирования",
+        "type": "ПЗ",
+        "weeks": [
+          4
+        ],
+        "teacher": "Лагутин А.Е.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": 22
+      }
+    ],
+    "3": [
+      {
+        "fullname": "2 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1
+      },
+      {
+        "fullname": "3 Объектно-ориентированное программирование(ЛК),Труханович Т.Л.",
+        "name": "Объектно-ориентированное программирование",
+        "type": "ЛК",
+        "weeks": [
+          3
+        ],
+        "teacher": "Труханович Т.Л.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": 29
+      },
+      {
+        "fullname": "4 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1 Английский язык (Профессиональная лексика) (Ф), Мышелова Н.И.",
+        "name": "Английский язык (Профессиональная лексика)",
+        "type": "Ф",
+        "weeks": [
+          1,
+          3
+        ],
+        "teacher": "Мышелова Н.И.",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 21,
+        "teacherId": 3
+      },
+      {
+        "fullname": "2 ООП(ЛР)",
+        "name": "ООП",
+        "type": "ЛР",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 15,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1 ЦОРИ(ЛР)",
+        "name": "ЦОРИ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 НИС(ПЗ),Нефедов С.Н.",
+        "name": "НИС",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Нефедов С.Н.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": 31
+      },
+      {
+        "fullname": "1 ЦОРИ(ЛР)",
+        "name": "ЦОРИ",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 Английский язык (Профессиональная лексика) (Ф), Мышелова Н.И.",
+        "name": "Английский язык (Профессиональная лексика)",
+        "type": "Ф",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Мышелова Н.И.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 21,
+        "teacherId": 3
+      }
+    ],
+    "4": [
+      {
+        "fullname": "2,4 Цифровая обработка речи и изображений(ПЗ),Киркоров С.И.",
+        "name": "Цифровая обработка речи и изображений",
+        "type": "ПЗ",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Киркоров С.И.",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": 18
+      },
+      {
+        "fullname": "1,3 Философия(ЛК),профессор,доцент,к.фил.н., Зайцев Д.М",
+        "name": "Философия",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Зайцев Д.М",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      },
+      {
+        "fullname": "2,4 Основы психологии и педагогики(ЛК), Христина Л.Ф",
+        "name": "Основы психологии и педагогики",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4,
+          2,
+          4
+        ],
+        "teacher": "Христина Л.Ф",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 23,
+        "teacherId": 28
+      },
+      {
+        "fullname": "Физическая культура,\nМалашевич И.В",
+        "name": "Физическая культура",
+        "type": "",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 6,
+        "teacherId": -1
+      },
+      {
+        "fullname": "Цифровая обработка речи и изображений( ЛК), Киркоров С.И.",
+        "name": "Цифровая обработка речи и изображений",
+        "type": "ЛК",
+        "weeks": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher": "Киркоров С.И.",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 14,
+        "teacherId": 18
+      },
+      {
+        "fullname": "1,3 Философия(ПЗ),Зайцев Д.М.",
+        "name": "Философия",
+        "type": "ПЗ",
+        "weeks": [
+          1,
+          3,
+          1,
+          3
+        ],
+        "teacher": "Зайцев Д.М.",
+        "lessonNumber": 4,
+        "room": "",
+        "lessonId": 22,
+        "teacherId": 27
+      }
+    ],
+    "5": [
+      {
+        "fullname": "1 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          1
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 НИС(ЛР)",
+        "name": "НИС",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1
+      },
+      {
+        "fullname": "4 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 0,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1
+      },
+      {
+        "fullname": "1 ОСиБД(ЛР)",
+        "name": "ОСиБД",
+        "type": "ЛР",
+        "weeks": [
+          1,
+          4
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": 20,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 НИС(ЛР)",
+        "name": "НИС",
+        "type": "ЛР",
+        "weeks": [
+          2
+        ],
+        "teacher": "",
+        "lessonNumber": 1,
+        "room": "",
+        "lessonId": -1,
+        "teacherId": -1
+      },
+      {
+        "fullname": "2 Системы управления базами данных(ЛК),доцент,к.т.н.,Карпук А.А.",
+        "name": "Системы управления базами данных",
+        "type": "ЛК",
+        "weeks": [
+          2,
+          4
+        ],
+        "teacher": "Карпук А.А.",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 24,
+        "teacherId": 30
+      },
+      {
+        "fullname": "3 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 2,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1
+      },
+      {
+        "fullname": "3 ТК(ЛР)",
+        "name": "ТК",
+        "type": "ЛР",
+        "weeks": [
+          3
+        ],
+        "teacher": "",
+        "lessonNumber": 3,
+        "room": "",
+        "lessonId": 19,
+        "teacherId": -1
+      }
+    ]
+  }
+}

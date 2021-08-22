@@ -102,7 +102,7 @@ function generateJson(firstGroupIndex, cb = function(){}) {
 			const tempLesson2 = [];
 			// console.log(`~~~~lesson#${lesson}~~~~`);
 			for(let weekLess = 0; weekLess < lessonHeight; weekLess++){
-				const offset = topOffset + 1 + (day * lessonOnADay) + (lesson * lessonHeight) + weekLess;
+				const offset = topOffset + 1 + (day * lessonOnADay * lessonHeight) + (lesson * lessonHeight) + weekLess;
 
 				// console.log(weekLess + ": \t", col + offset);
 
